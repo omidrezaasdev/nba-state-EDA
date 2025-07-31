@@ -1,1 +1,1 @@
-# nba-state-EDA
+Using NBA player statistics from 1996-2022, this project analyzes the game's evolution, confirms the predictive power of draft position, and identifies non-scoring players who significantly impact team success.
